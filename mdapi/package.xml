@@ -95,5 +95,25 @@
         <members>Settings</members>
         <name>CustomTab</name>
     </types>
+    <types>
+<members>ContactController</members>
+<name>ApexClass</name>
+</types>
+<types>
+<members>Property_Record_Page</members>
+<name>FlexiPage</name>
+</types>
+<types>
+<members>Property__c-Property Layout</members>
+<name>Layout</name>
+</types>
+<types>
+<members>Property__c</members>
+<name>CustomObject</name>
+</types>
+<types>
+<members>dreamhouse</members>
+<name>PermissionSet</name>
+</types>
     <version>52.0</version>
 </Package>
